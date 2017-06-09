@@ -1,0 +1,59 @@
+@media only screen and (max-width: 700px) {
+    .container {
+      width: 49.3vw !important;
+      height: 49.3vw !important;
+      margin-top: 15vw !important;
+  }
+
+}
+body {
+  padding: 0;
+  margin: 0;
+  background-color:rgb(201, 196, 186);
+}
+.navbar {
+    background: transparent;
+    border: 0px;
+    height: 40px;
+}
+b {
+ font-size: 22px;
+ color: black;
+
+}
+.navbar-right {
+    margin-right: 0px;
+}
+
+.container {
+  width: 48.3vw;
+  height: 48.3vw;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  border: 1px solid black;
+  padding:0;
+  margin-top: 1vw;
+
+}
+
+.square {
+  min-height: 6vw;
+  width: 6vw;
+  text-align: center;
+  }
+
+.brown {
+  background-color: #8b4513;
+}
+
+.tan {
+  background-color: #cd853f;
+}
+.white{
+    color:white;
+}
+.piece {
+    padding: 0.5vw;
+    font-size: 5vw;
+}
